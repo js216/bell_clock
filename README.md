@@ -6,3 +6,5 @@ These are the design files for a simple three-button alarm clock.
 - `firmware`: code that runs on the clock Arduino
 - `pcb`: KiCad files for the clock motherboard
 - `top_plate`: KiCad files for the "front panel"
+
+![](clock.png)
